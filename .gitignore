@@ -1,0 +1,13 @@
+.venv/
+
+.vscode/
+
+**/matlab_code/
+
+*.m
+
+*.jpg
+*.png
+*.pdf
+
+*.pyc
